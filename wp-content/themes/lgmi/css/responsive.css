@@ -1,0 +1,309 @@
+
+@media only screen and (min-width:320px) and (max-width:991px)
+{
+	.footer_box
+	{
+		margin-bottom: 20px;
+	}
+}
+
+@media only screen and (min-width:320px) and (max-width:767px) {
+	
+	/*====== Comman ====== */
+	.container
+	{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	/*=== Top Header ====*/
+	.header_right
+	{
+		display: none;
+	}
+	.header_top_left .top_head_menu
+	{
+		text-align: center;
+	}
+	.list_top_social
+	{
+		text-align: center;
+		margin: 10px 0 0 0;
+	}
+	.logo_box {
+    	text-align: center;
+	}
+
+	
+	/*===== Navigation ======*/
+	.main_navbar
+	{
+		background: #e3e3e3;
+	}
+	.stellarnav.mobile.light ul {
+    background: rgb(56, 54, 54);
+		width: 100%;
+	}
+	.main_navbar .nav > li
+	{
+		padding: 3px 15px;
+	}
+	.stellarnav.mobile > ul > li > a
+	{
+		padding: 7px 1px;
+	}
+	.main_navbar .nav > li > a
+	{
+		border-right: none;
+	}
+	.stellarnav.mobile.light li a
+	{
+		text-transform: capitalize;
+	}
+	.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus, .stellarnav .nav .open > a
+	{
+		background: transparent;
+	}
+	.stellarnav ul ul
+	{
+		top: 0;
+	}
+	
+	
+	
+	/*===== Banner ====*/
+	#banner_carousel .carousel-inner img 
+	{
+		height: auto;
+	}
+	.banner_text_inner
+	{
+		width: 100%;
+	}
+	.banner_text h1
+	{
+		font-size: 25px;
+	}
+	.banner_text h2
+	{
+		font-size: 17px;
+	}
+	.banner_text .contact_banner_btn
+	{
+		padding: 5px 12px;
+		font-size: 15px;
+		margin-top: 9px;
+	}
+	#banner_carousel .carousel-control.left span, #banner_carousel .carousel-control.right span
+	{
+		width: 40px;
+		height: 40px;
+		padding: 7px 9px;
+    	text-align: center;
+	}
+	.home_box_sec {
+    	margin-top: 50px;
+	}
+	.counter_sec
+	{
+		padding: 70px 0 40px 0;
+	}
+	.counter_count_box
+	{
+		margin:0 0 30px 0;
+	}
+	.gallery_box .galleryImgBox
+	{
+		width: 50%;
+		float: left;
+	}
+	#sponser_logo_slider.owl-carousel .owl-item img
+{
+	max-width: 140px;
+}
+	/*=========== footer ==============*/
+	.inner_banner_sec
+	{
+		padding: 70px 0;
+	}
+	.inner_banner_content h1
+	{
+		font-size: 26px;
+	}
+	
+
+}
+@media only screen and (min-width:220px) and (max-width:319px) {
+	/*===== Top Haeder ==*/
+	
+	
+	
+	
+	
+}
+
+
+@media only screen and (min-width:320px) and (max-width:479px) {
+	#banner_carousel .carousel-control {
+    top: 37%;
+}
+	
+	
+	
+}
+	
+	
+@media only screen and (min-width:480px) and (max-width:767px) {
+	
+	
+	/*===== Banner ====*/
+	.banner_text
+	{
+		
+	}
+	.banner_text_inner
+	{
+		width: 80%;
+	}
+	.banner_text h2
+	{
+		font-size: 24px;
+	}
+	.banner_text h1
+	{
+		font-size: 27px;
+	}
+	.banner_text h3
+	{
+		font-size: 16px;
+	}
+	.banner_text .contact_banner_btn
+	{
+		margin-top: 15px;
+		padding: 4px 20px;
+		font-size: 13px;
+	}
+
+	#banner_carousel .carousel-control {
+    top: 30%;
+	}
+	
+	
+	
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+	
+	
+	/*====== Comman ====== */
+	.container
+	{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	/*===== Navigation ======*/
+	.header_right .list_donate li a
+	{
+		padding: 4px 9px;
+		font-size: 13px;
+	}
+	.nav_header_left
+	{
+		width: 75%;
+	}
+	.main_navbar .nav > li {
+    
+	}
+	.main_navbar .nav > li > a
+	{
+		font-size: 12px !important;
+		padding: 17px 4px;
+		border-right: none;
+	}
+	.header_right
+	{
+		
+	}
+	
+	/*===== Banner ====*/
+	#banner_carousel .carousel-inner img
+	{
+		height: auto;
+	}
+	.banner_text_inner
+	{
+		width: 80%;
+	}
+	.banner_text h1
+	{
+		font-size: 20px;
+	}
+	.banner_text h1 .banner_elcom_txt
+	{
+		font-size: 50px;
+	}
+	.banner_text p
+	{
+		
+	}
+	.banner_text .contact_banner_btn
+	{
+		margin-top: 12px;
+	}
+	#banner_carousel .carousel-control {
+    top: 30%;
+	}
+	.home_box_sec {
+    	margin-top: 50px;
+	}
+	
+}
+
+
+
+
+
+
+
+
+/********************@media only screen and (min-width:1024px) and (max-width:1200px)********************/
+
+
+@media (min-width:992px) and (max-width:1199px) {
+	/*====== Comman ====== */
+	.container
+	{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	/*===== Top Haeder ==*/
+	.nav_header_left
+	{
+		width:77%;
+	}
+	.header_right {
+		width: 23%;
+	}
+	.main_navbar .nav > li > a
+	{
+		padding: 17px 9px;
+	}
+	
+	.feature_box_main
+	{
+		min-height:238px;
+	}
+	.feature_box_main .feature_box h2
+	{
+		font-size:20px;
+	}
+	
+}
+
+	
+/********************@media only screen and (min-width:1201px)********************/
+
+	
+
+/********************@media only screen and (min-width:1201px)********************/
